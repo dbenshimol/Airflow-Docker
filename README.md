@@ -4,8 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue)
 # The Forex Data API Pipeline Using Airflow & Docker 
 Create a small project of Airflow pipeline using the Forex Data API.
-Extracting data from the source and storing it into a HDFS brew update
-brew install dockeruse Airflow Operators such as HttpSensor, FileSensor, PythonOperator, BashOperator, HiveOperator, SparkSubmitOperator, EmailOperator, SlackAPIPostOperator.
+Extracting data from the source and storing it into a HDFS Use Airflow Operators such as HttpSensor, FileSensor, PythonOperator, BashOperator, HiveOperator, SparkSubmitOperator, EmailOperator, SlackAPIPostOperator.
 
 
 Docker: 
